@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756474114452",
+    "firebase_url": "https://androideatit-744bb.firebaseio.com",
+    "project_id": "androideatit-744bb",
+    "storage_bucket": "androideatit-744bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756474114452:android:3ae03ae7ac36a992",
+        "android_client_info": {
+          "package_name": "com.example.amel.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756474114452-gdqr2bav3sneo8g6cpdnhif0ajd3a7h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9l6s_3ASyRbTwjVwUbDwfQzM8W8Nclmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
